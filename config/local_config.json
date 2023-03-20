@@ -1,0 +1,20 @@
+{
+	"tags": {
+		"basic": [
+			"ip",  "v_loop",  "dy", "ip_error",
+			"saddle_bc", "saddle_de", "saddle_jk", "saddle_lm"
+		],
+		"10k": ["ne"],
+		"axuv": [
+			"pxuv01", "pxuv02", "pxuv03", "pxuv04",
+	        "pxuv05", "pxuv06", "pxuv07", "pxuv08",
+	        "pxuv09", "pxuv10", "pxuv11", "pxuv12",
+	        "pxuv13", "pxuv14", "pxuv15", "pxuv16"
+		]
+	},
+	"shots": {
+		"train": [70831,54003, 54006],
+	    "val": [54014, 54017],
+	    "test": [54094, 54099]
+	}
+}
